@@ -1,0 +1,27 @@
+.app.light {
+  background-color: #ffffff;
+  color: #0d1321;
+}
+
+.app.dark {
+  background-color: #0d1321;
+  color: #f0ebd8;
+}
+
+button {
+  padding: 10px 15px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.app.light button {
+  background-color: #f0ebd8;
+  color: #0d1321;
+  border: 1px solid #3e5c76;
+}
+
+.app.dark button {
+  background-color: #3e5c76;
+  color: #f0ebd8;
+  border: 1px solid #748cab;
+}
